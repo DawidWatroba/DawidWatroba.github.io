@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+/* reset marginesów i dopełnień */
+html, body, ul, li { margin: 0; padding: 0; }
+
+/* reset wysokości linii i fontu */
+/*h1, h2, h3, h4, ul, li, ol, p { margin:0; padding:0; font-size: 1em;
+line-height: 1.6em; }*/
+
+/* ustawienia ogólne */
+body {	
+		background-image:  url(binary-code.jpg);} 
+/* szerokość strony */
+.content { width: 980px; margin: 0 auto; overflow: hidden; }
+/* czcionka */
+/*p, a, li { color: #304055; font-size: 1.4em;
+font-family: arial, tahoma, verdana, sans-serif; }*/
+section {width:30%; height: 100%; float: left; }
+aside {width:70%; height: 100%; float: right; }
+button {
+	width: 250px;
+	background: linear-gradient(#ec5e5c, #b22c35);
+	transform: skew(-10deg);
+	padding: 25px;
+	color: #fff;
+	border-radius: 10px;
+	position:absolute;
+	left: 0;
+	right:5%;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+a{
+text-decoration:none;
+color: black;
+font-weight: bold;
+font-size: 17px;
+}
