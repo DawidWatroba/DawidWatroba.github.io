@@ -1,0 +1,85 @@
+{
+  "formed": 2016,
+    "members": [
+    {
+      "name": "John",
+      "lastName": "Smith",
+	  "companyNumber": 1,
+      "age": 29,
+      "salary": 3500,
+      "homeCountry": "Sokovia"
+    },
+    {
+      "name": "Bart",
+      "lastName": "John",
+	  "companyNumber": 1,
+      "age": 34,
+      "salary": 3150,
+      "homeCountry": "Wokanda"
+    },
+    {
+      "name": "Elen",
+      "lastName": "Smith",
+	  "companyNumber": 2,
+      "age": 27,
+      "salary": 4200,
+      "homeCountry": "USA"
+    },
+    {
+      "name": "Micke",
+      "lastName": "Lost",
+	  "companyNumber": 2,
+      "age": 38,
+      "salary": 5150,
+      "homeCountry": "Wokanda"
+    },
+    {
+      "name": "Mike",
+      "lastName": "Green",
+	  "companyNumber": 2,
+      "age": 31,
+      "salary": 2550,
+      "homeCountry": "Wokanda"
+    },
+    {
+      "name": "Martin",
+      "lastName": "Black",
+	  "companyNumber": 3,
+      "age": 38,
+      "salary": 4700,
+      "homeCountry": "USA"
+    },
+    {
+      "name": "Greg",
+      "lastName": "Victor",
+	  "companyNumber": 3,
+      "age": 29,
+      "salary": 4500,
+      "homeCountry": "Sokovia"
+    },
+    {
+      "name": "Tony",
+      "lastName": "Stark",
+	  "companyNumber": 3,
+      "age": 25,
+      "salary": 3800,
+      "homeCountry": "Sokovia"
+    },
+    {
+      "name": "Natasha",
+      "lastName": "Romanova",
+	  "companyNumber": 1,
+      "age": 41,
+      "salary": 3100,
+      "homeCountry": "Wokanda"
+    },
+    {
+      "name": "Tim",
+      "lastName": "Red",
+	  "companyNumber": 2,
+      "age": 33,
+      "salary": 5050,
+      "homeCountry": "USA"
+    }
+  ]
+}
